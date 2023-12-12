@@ -1,14 +1,14 @@
 {
     "name": {
-        "en": "Example Pack I",
-        "ru": "Тестовый набор 1"
+        "en": "Example Pack",
+        "ru": "Тестовый набор"
     },
     "description": {
-        "en": "An example pack.",
-        "ru": "Пример набора слов"
+        "en": "This is an example pack.",
+        "ru": "Это пример набора слов"
     },
     "files": [
         "./data/words.json"
     ],
-    "packId": "example_pack_1"
+    "packId": "example_pack_official"
 }
